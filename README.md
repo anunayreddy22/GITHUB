@@ -1,4 +1,4 @@
-# GITHUB
+# GIT AND GITHUB
 
 Git is a version control system which lets you track changes you make to your files over time. With Git, you can revert to various states of your files (like a time traveling machine). You can also make a copy of your file, make changes to that copy, and then merge these changes to the original copy.
 
@@ -44,7 +44,13 @@ TO COMMIT FILES IN COMMIT
 
 Now the file is in commited state
 
-TO PUSH THE REPSO
+TO PUSH THE REPOSITORY
+
+After you create the repo, you should be redirected to a page that tells you how to create a repo locally or push an existing one.
+
+if already exits locally then
+
+
 
 
 
