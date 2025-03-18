@@ -50,7 +50,13 @@ Now the file is in commited state
 
 **git checkout filename**  => rollback to last version 
 
-Create and push remote repositories
+Create and push remote repositories.
+
+**git remote add origin url**(this is the url of our remote repository)
+
+then 
+
+**git push -u origin main**  main is the branch name 
 
 
 
