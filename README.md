@@ -65,6 +65,18 @@ Lets now learn what is **.gitignore**
 Suppose we have a file which have passwords, API keys which we dont want to commit on github , so inorder for this we should add the imp files in .gitignore file (**touch .gitignore**)
 if we want  to ignore log files then add this *.txt (now files with .txt extension will be ignored) in .gitignore file.
 
+Cloning a remote repository on github to pull to to your local computer.
+
+**git clone url**(from github).
+
+Branching and Merging
+
+**git branch name-of-branch**  => creating new branch.
+we can do experiments on branch and then merge final code to main branch.
+
+**git branch** => to show how many branches in our repo.
+**git checkout branch 'branch-name'** => to switch our branch
+
 
 
 
