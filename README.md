@@ -75,7 +75,25 @@ Branching and Merging
 we can do experiments on branch and then merge final code to main branch.
 
 **git branch** => to show how many branches in our repo.
-**git checkout branch 'branch-name'** => to switch our branch
+**git checkout branch 'branch-name'** => to switch our branch.
+
+How to use => Switch from main branch to other branch makes changes then come back to main(keep a note for now the main branch does not have changes) we then merge the changes and DONE.
+
+To merge and push.
+
+switch to main branch  and do => **git merge new-branch-name**.
+
+now we will do **git push origin main -u** => now you can chekc online the changes are done.
+
+
+Forking - someday Having a copy of our code i.e duplicating everything (different from cloning).
+
+Then that Somebody works on that code and adds some of the features then (if somebody isnt collobator i.e there is only read-access) the they will make an pull-request(making suggestion if the owner(has the deciding vote) agrees then it done).
+
+then the merging is done.
+
+
+
 
 
 
