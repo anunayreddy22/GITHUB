@@ -44,11 +44,17 @@ TO COMMIT FILES IN COMMIT
 
 Now the file is in commited state
 
-TO PUSH THE REPOSITORY
+**git log** => to see the commits
 
-After you create the repo, you should be redirected to a page that tells you how to create a repo locally or push an existing one.
+**git diff** => to look differences in our current files from previous saved version.
 
-if already exits locally then
+**git checkout filename**  => rollback to last version 
+
+Create and push remote repositories
+
+
+
+
 
 
 
